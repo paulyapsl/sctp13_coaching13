@@ -1,3 +1,4 @@
 import utils
-utils.greeting("PY")
+utils.greeting("<my_name>")
+utils.goodbye()
 
